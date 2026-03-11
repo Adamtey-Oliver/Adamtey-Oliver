@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oliver-Adamtey
+- 👋 Hi, I’m Adamtey Oliver Kweku Junior
 - 👀 I’m a Web Developer 
 - 🌱 I’m currently learning Angular(CLI 17) with TypeScript
 - 💞️ I’m looking to collaborate on major projects that will blow the minds of many in the industry.
