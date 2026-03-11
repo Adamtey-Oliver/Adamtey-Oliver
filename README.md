@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adamtey Oliver Kweku Junior
 - 👀 I’m a Web Developer and a Tech Content Creator
-- 🌱 I’m currently learning Angular(CLI 17) with TypeScript
+- 🌱 I’m currently learning Angular(CLI latest version) with TypeScript
 - 💞️ I’m looking to collaborate on major projects that will blow the minds of many in the industry.
 - 📫 How to reach me olivertwist200054@gmail.com
 
